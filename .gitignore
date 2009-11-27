@@ -1,0 +1,12 @@
+*.fasl
+*~
+\#*\#
+.\#*
+data/transaction-log.xml
+data/__db.???
+data/log.*
+data/%ELEPHANT*
+data/snapshot.xml
+data/snapshot-*.xml
+access-log
+message-log
